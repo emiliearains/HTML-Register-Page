@@ -1,0 +1,20 @@
+
+.mainbox{
+    border-style: ridge;
+    border: 5px solid black;
+    margin-top: 35px;
+    margin-right: 600px;
+    margin-bottom: 50px;
+    margin-left: 600px;
+    padding: 10px 20px 20px 20px; 
+    background-color: azure;
+    text-align: center;
+}
+body{
+    background-color: rgb(127, 150, 255);
+}
+nav{
+    background-color: azure;
+    height: 60px;
+}
+
